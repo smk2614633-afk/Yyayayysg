@@ -1,0 +1,6 @@
+{
+  "name": "EarningHub",
+  "description": "Comprehensive rewards and task earning platform with daily bonuses, micro-tasks, lucky spin, scratch cards, surveys, quizzes, and instant payout withdrawals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
